@@ -21,7 +21,7 @@
 
 ---
 ## Player selection
-\**This part of the research is conducted during the week 2022/7/14-2022/7/20.
+\**This part of the research is conducted during the week 2022/7/14-2022/7/20.*
 
 Active Players
 

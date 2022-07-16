@@ -1,10 +1,8 @@
-# Form ( 状态持续性 or 状态波动 in Chinese )and Live update ( 实时评价更新 in Chinese)
+# The impact of player overall rating on the increase and decrease value of player attributes
 ---
-## The impact of player overall rating on the increase and decrease value of player attributes
----
-### My definitions
+## My definitions
 
-#### Arrow category
+### Arrow category
 
 | Arrow | Def in English | Def in Chinese |
 | --- | --- | --- |
@@ -14,7 +12,7 @@
 | ↘ | Bad | 斜下 |
 | ⬇ | Poor | 直下 |
 
-#### Player overall rating
+### Player overall rating
 
 The ratings shown of the player card is definited as Player overall rating. Although some players, such as Guerrero of Dourmund, have a higher rating than player overall rating in non-registered positions, the impact is only related with their playe overall rating.
 

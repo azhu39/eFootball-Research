@@ -47,5 +47,3 @@ The ratings shown of the player card is definited as Player overall rating. Alth
 | Stamina | --- | --- |
 
 ---
-## The impact of player form and Live update on the probability of the acquisition of different arrows.
----

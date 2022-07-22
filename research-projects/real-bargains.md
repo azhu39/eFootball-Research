@@ -146,7 +146,7 @@
 
 | Player name | Price |
 | --- | --- |
-| [Larin](https://www.pesmaster.com/c-larin/efootball-2022/player/122009/) | 14k |
-| [Hwang](https://www.pesmaster.com/hwang-hee-chan/efootball-2022/player/116294/) | 20k |
+| [C. Larin](https://www.pesmaster.com/c-larin/efootball-2022/player/122009/) | 14k |
+| [Hwang Hee Chan](https://www.pesmaster.com/hwang-hee-chan/efootball-2022/player/116294/) | 20k |
 | [Roger Guedes](https://www.pesmaster.com/roger-guedes/efootball-2022/player/104766/) | 14k |
 | [M. Valbuena](https://www.pesmaster.com/m-valbuena/efootball-2022/player/34805/) | 14k |

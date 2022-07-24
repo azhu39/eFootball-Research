@@ -215,3 +215,15 @@ There are three main categories of the player attributes: Awareness (足球意�
 ---
 
 ## Conclusion
+The general trend is that, as the overall rating of the player goes higher, the buff he get when in good form gets smaller, the debuff he get when in bad form gets greater. In other words, as the overall rating goes lower, the buff gets greater and debuff gets smaller. This allows **underrated players** to have a place in the squad of non-paying or few-paying players.
+**Underrated players**: Players who have a higher (usually larger or equal to 4) rating in non-registered postion than registered postion.
+Since compared to normal players, they have a high buff when in good form and a lower debuff when in bad form.
+
+### Underrated Player List
+Four points will be left for the team playstyle development of each player. There is more than one development path to realize.
+
+
+
+
+
+

@@ -31,6 +31,8 @@ Active Players
 | 2 | [S. Dalgaard](https://www.pesmaster.com/s-dalgaard/efootball-2022/player/148770/) | [C. Rutz](https://www.pesmaster.com/c-rutz/efootball-2022/player/153254/) | [Lukasz Fabianski](https://www.pesmaster.com/l-fabianski/efootball-2022/player/34437/) | [Javier Chicharito](https://www.pesmaster.com/chicharito/efootball-2022/player/53876338233036/) | [Luis Felipe](https://www.pesmaster.com/luis-felipe/efootball-2022/player/135457/) |
 | 3 | [P. Lima](https://www.pesmaster.com/p-lima/efootball-2022/player/65238/) | [Y. Endo](https://www.pesmaster.com/y-endo/efootball-2022/player/53877143503098/) | [H. Maiga](https://www.pesmaster.com/h-maiga/efootball-2022/player/114690/) | [K. Yamase](https://www.pesmaster.com/k-yamase/efootball-2022/player/9/) | [A. Nadaruz](https://www.pesmaster.com/a-nadruz/efootball-2022/player/148016/) |
 
+To verify the validation of this research, [Kyogo Furuhashi](https://www.pesmaster.com/k-furuhashi/efootball-2022/player/70379750153110/) is set to be the controlled group against the experiment group Maiga.
+
 Legends
 
 | Form | Fixed B |
@@ -40,6 +42,15 @@ Legends
 
 ---
 ## Result
+
+Furuhashi vs Maiga
+
+| Player\Live Update | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| Furuhashi | --- | --- | --- | --- | --- |
+| Maiga | --- | --- | --- | --- | --- |
+
+This results are within the within the margin of error, which means the whole research result can be exploited on all players in eFootball 2022.
 
 Active Players
 
@@ -57,5 +68,27 @@ Legends
 | 3 | --- |
 
 ---
+
+Shown in percentage form
+
+
+Active Players
+
+| Form\Live Update | A | B | C | D | E |
+| --- | --- | --- | --- | --- | --- |
+| 1 | --- | --- | --- | --- | --- |
+| 2 | --- | --- | --- | --- | --- |
+| 3 | --- | --- | --- | --- | --- |
+
+Legends
+
+| Form | Fixed B |
+| --- | --- |
+| 2 | --- |
+| 3 | --- |
+
+---
+
+
 ## Conclusion
 

@@ -23,6 +23,10 @@
 ## Player selection
 \**This part of the research is conducted during the week 2022/7/14-2022/7/20.*
 
+![Starting 11](https://user-images.githubusercontent.com/80454689/187213997-39bec124-3ad3-454f-bafc-46fc6fdcc947.jpg)
+
+
+
 Active Players
 
 | Form\Live Update | A | B | C | D | E |
@@ -32,6 +36,7 @@ Active Players
 | 3 | [P. Lima](https://www.pesmaster.com/p-lima/efootball-2022/player/65238/) | [Y. Endo](https://www.pesmaster.com/y-endo/efootball-2022/player/53877143503098/) | [H. Maiga](https://www.pesmaster.com/h-maiga/efootball-2022/player/114690/) | [K. Yamase](https://www.pesmaster.com/k-yamase/efootball-2022/player/9/) | [A. Nadaruz](https://www.pesmaster.com/a-nadruz/efootball-2022/player/148016/) |
 
 To verify the validation of this research, [Kyogo Furuhashi](https://www.pesmaster.com/k-furuhashi/efootball-2022/player/70379750153110/) is set to be the controlled group against the experiment group Maiga.
+
 
 Legends
 
@@ -75,10 +80,17 @@ Active Players
 
 Legends
 
-| Form | Fixed B |
-| --- | --- |
-| 2 | --- |
-| 3 | --- |
+| Form/Live Update and Form | 2B	| 3B |
+| --- | --- | --- |
+| Superb | 52	| 25 | 
+| Good| 77	| 108 | 
+| Normal| 121	| 117 | 
+| Bad | 0	| 0 | 
+| Poor | 0	| 0 | 
+| Total	| 250	| 250 | 
+
+![image](https://user-images.githubusercontent.com/80454689/187214067-aa3e7e46-ce64-4c79-9eb8-fc0a1656bb25.png)
+
 
 ---
 

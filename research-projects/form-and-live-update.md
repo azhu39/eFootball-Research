@@ -45,10 +45,16 @@ Legends
 
 Furuhashi vs Maiga
 
-| Player\Live Update | A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| Furuhashi | --- | --- | --- | --- | --- |
-| Maiga | --- | --- | --- | --- | --- |
+| Player\Live Update | Furuhashi | Maiga | 
+| --- | --- | --- | 
+| Superb | 7 | 9 | 
+| Good | 87 | 80 | 
+| Normal | 146 | 151 | 
+| Bad | 8 | 8 | 
+| Poor | 2 | 2 | 
+
+![image](https://user-images.githubusercontent.com/80454689/187212158-4ece0c03-fe64-4f78-925f-e17508c86d47.png)
+
 
 This results are within the within the margin of error, which means the whole research result can be exploited on all players in eFootball 2022.
 
@@ -59,6 +65,16 @@ Active Players
 | 1 | --- | --- | --- | --- | --- |
 | 2 | --- | --- | --- | --- | --- |
 | 3 | --- | --- | --- | --- | --- |
+箭头/持续性和实时状态	1A	1B	1C	1D	1E	2A	2B	2C	2D	2E	3A	3B	3C	3D	3E
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 直上	| 130	| 98	| 81	| 34	| 13	| 61	| 47	| 12	| 0	| 0	| 37	| 25	| 9	| 0	| 0 | 
+| 斜上	| 47	| 42	| 37	| 66	| 56	| 104	| 78	| 61	| 40	| 36	| 154	| 134	| 80	| 37	| 0 |
+| 平	| 33	| 34	| 17	| 31	| 39	| 85	| 125	| 128	| 146	| 111	| 59	| 91	| 151	| 177	| 183 | 
+| 斜下	| 40	| 46	| 71	| 53	| 75	| 0	| 0	| 45	| 39	| 52	| 0	| 0	| 8	| 27	| 40 | 
+| 直下	| 0	| 30	| 44	| 66	| 67	| 0	| 0	| 4	| 25	| 51	| 0	| 0	| 2	| 9	| 27 | 
+| 总计	| 250	| 250	| 250	| 50	| 250	| 250	| 250	| 250	| 250	| 250	| 250	| 250	| 250	| 250	| 250 | 
+![image](https://user-images.githubusercontent.com/80454689/187212254-39e7ef1c-ee99-46d2-9fe6-606ba52c40c4.png)
+
 
 Legends
 

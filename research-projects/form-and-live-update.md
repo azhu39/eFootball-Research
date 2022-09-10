@@ -94,7 +94,7 @@ Legends
 
 ---
 
-Shown in percentage form
+**Shown in percentage form**
 
 
 Active Players

@@ -222,7 +222,8 @@ Since compared to normal players, they have a high buff when in good form and a 
 ### Underrated Player List
 Four points will be left for the team playstyle development of each player. There is more than one development path to realize.
 
-[More detailed version](https://www.bilibili.com/read/cv17745256) (contains underrated player list and other details)
+[More detailed version](https://www.bilibili.com/read/cv21071787) (contains underrated player list and other details)
+
 
 [Video version](https://www.bilibili.com/video/BV1UG4y1i7dS) (in Chinese, coop with [vearwu](https://space.bilibili.com/349810138))
 
